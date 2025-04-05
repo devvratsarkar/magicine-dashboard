@@ -1,0 +1,485 @@
+:root {
+  --custom-first-color: #f2f3f9;
+  --custom-second-color: #293896;
+  --custom-third-color: #00a79d;
+  --custom-fourth-color: #d9d9d9;
+}
+
+.color_icon {
+  color: var(--custom-second-color);
+}
+
+.data_table,
+.data_table .card-body,
+.order_table .card-body {
+  padding: 0;
+}
+
+.data_table {
+  border: 1px solid var(--custom-fourth-color);
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.data_table_custum {
+  /* border: 1px solid var(--custom-fourth-color); */
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.data_table .tab-content {
+  padding: 10px 0;
+}
+
+.data_table .nav-link {
+  margin: 2px 0 !important;
+  border-radius: 0 !important;
+}
+
+.inventory_tabs li:nth-child(1) {
+  border-radius: 6px 0px 0px 6px !important;
+  overflow: hidden;
+}
+
+.inventory_tabs li:nth-child(2) {
+  border-radius: 0px 6px 6px 0px !important;
+  overflow: hidden;
+}
+
+.inventory_product_image {
+  width: 50px;
+  height: 50px;
+}
+
+.action_icon {
+  font-size: 20px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.rs-tag {
+  background: gainsboro;
+  border-radius: 5px;
+  padding: 2px 0px 0px 8px;
+}
+
+.action_icon_wrapper {
+  display: flex;
+  justify-content: center;
+  column-gap: 5px;
+}
+
+.action_icon_wrapper button {
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.table-responsive .btn:not(:disabled):not(.disabled) {
+  color: #f76310;
+}
+
+.odd_data_table_tr,
+.bKWdgk {
+  background-color: #00a79d26 !important;
+}
+
+.bWsMfA {
+  background-color: #00a79d26 !important;
+}
+
+.rdt_TableCol,
+.rdt_TableCell {
+  border: none !important;
+}
+
+.add_new_product .check_box,
+.edit_product .check_box,
+.view_product .check_box {
+  height: 20px;
+  width: 20px;
+  border: 1px solid var(--custom-fourth-color);
+}
+
+.required_icon {
+  color: red;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+
+.view_product p {
+  margin-bottom: 0 !important;
+}
+
+.row_border {
+  border: 1px solid var(--custom-fourth-color);
+  border-radius: 5px;
+  padding: 12px;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.custom_dropdown {
+  background-color: #fff;
+  width: 100%;
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+}
+
+.row_bg {
+  background-color: rgba(242, 243, 249, 1);
+}
+
+.view_product_title {
+  font-weight: 500;
+}
+
+.modal_header {
+  background-color: red;
+  color: #fff;
+  justify-content: center;
+}
+
+.modal_header-cancellation {
+  background-color: rgba(41, 56, 150, 1);
+  color: #fff;
+  justify-content: center;
+}
+
+.cancel_button {
+  border: 1px solid;
+}
+
+.all-category-btn {
+  background-color: rgba(242, 243, 249, 1) !important;
+  color: rgba(0, 0, 0, 0.6) !important;
+  border: 1px solid rgb(181, 178, 178) !important;
+}
+
+.add_category_form .form-control::-webkit-file-upload-button {
+  color: #fff;
+  background-color: rgba(242, 243, 249, 1) !important;
+  transition: none;
+  line-height: 1.9;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.shippin_zone_heading {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.close_btn {
+  min-width: 25px;
+  height: 25px;
+  padding: 0;
+  background-color: var(--custom-fourth-color);
+}
+
+.shiping_zone_card {
+  border: 1px solid var(--custom-fourth-color);
+  padding: 10px 5px 0px 5px;
+  border-radius: 5px;
+}
+
+.custom_checkbox input {
+  padding: 15px;
+}
+
+@media (min-width: 576px) {
+
+  .faq_modal .modal-dialog,
+  .specification_modal .modal-dialog {
+    max-width: 70%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .customer_modal .modal-dialog {
+    max-width: 45%;
+  }
+}
+
+.customer_profile_card p {
+  margin-bottom: 5px;
+}
+
+form {
+  overflow: visible !important;
+}
+
+/* .medicine_form .tab-content,
+  .medicine_form .col {
+    padding: 0 !important;
+  } */
+
+.medicine_form .tab-content .safety_col {
+  margin-bottom: 10px;
+}
+
+
+.add_more_details_title {
+  border: 1px solid var(--custom-fourth-color);
+  border-right: 0;
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px 0px 0px 5px;
+
+}
+
+.add_more_details_disabled {
+  background-color: var(--custom-second-color);
+  border: 1px solid var(--custom-second-color);
+  color: #fff;
+  width: fit-content;
+  cursor: pointer;
+}
+
+.add_more_detail_row {
+  display: flex;
+  align-items: center;
+  padding-right: 10px;
+}
+
+.add_more_detail_row_disabled {
+  background-color: var(--custom-second-color);
+  border-radius: 5px;
+}
+
+.add_more_detail_row_disabled .add_more_details_title {
+  /* padding-right: 0; */
+  text-align: end;
+}
+
+/* .add_more_detail_row_disabled .add_more_details_icon {
+  padding-left: 0;
+} */
+
+.add_more_details_status {
+  cursor: pointer;
+  width: fit-content !important;
+  margin-left: auto;
+}
+
+.add_more_details_icon {
+  font-size: 20px;
+  padding: 10px;
+  width: fit-content;
+  border: 1px solid var(--custom-second-color);
+  background-color: var(--custom-second-color);
+  color: #fff;
+  border-radius: 0px 5px 5px 0px;
+  display: flex !important;
+  align-items: center;
+  cursor: pointer;
+}
+
+.faq_react_quill .ql-container {
+  height: 100px !important;
+}
+
+.faq_icon {
+  display: flex;
+  column-gap: 10px;
+  margin-top: 30px;
+  height: fit-content;
+}
+
+.manufacturer_btn {
+  display: flex;
+  gap: 5px;
+}
+
+.manufacturer_btn button {
+  padding: 0;
+  font-size: 20px;
+  line-height: 20px !important;
+}
+
+.custum-dropdown-style {
+  width: 100%;
+}
+
+.tag-item {
+  width: 90%;
+}
+
+.dropdown {
+  width: 100% !important;
+}
+
+.dropdown-trigger {
+  width: 100% !important;
+  border-radius: 8px !important;
+  border-color: #fff;
+}
+
+.search {
+  width: 90%;
+  border-bottom: none !important;
+}
+
+.dropdown-content {
+  width: 100% !important;
+}
+
+.select-styled option:checked {
+  background-color: #ccc;
+  color: inherit;
+}
+
+.order_details_row {
+  position: relative;
+}
+
+.order_details_keys {
+  position: absolute;
+  top: 0;
+  right: 8px;
+  display: grid;
+}
+
+.order_details_keys i {
+  cursor: pointer;
+  font-size: 19px;
+  color: #878787;
+  z-index: 1;
+}
+
+.order_details_keys i:hover {
+  color: #000;
+}
+
+.order_history {
+  background-color: var(--custom-first-color);
+  padding: 15px;
+}
+
+.order_history_author_text {
+  font-size: 12px;
+  text-decoration: underline;
+}
+
+.order_history_author_text:nth-child(1) {
+  color: #878787;
+}
+
+.order_history_author_text:nth-child(2) {
+  color: rgba(253, 40, 27, 1);
+  font-style: italic;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.order_history_author_text:nth-child(2) p {
+  width: max-content;
+}
+
+/* .sun-editor-editable[contenteditable=true] figure img{
+  height: 200px!important;
+} */
+.data_table_text {
+  width: 250px;
+  white-space: break-spaces;
+  text-align: justify;
+}
+
+.description_input {
+  border-radius: 7px 0px 0px 7px;
+  padding: 20px 10px;
+}
+
+.view_img {
+  width: 100px;
+  height: 100px;
+}
+
+.lnOUep {
+  overflow: visible !important;
+  white-space: pre-wrap !important;
+}
+
+.review_table .rdt_TableCol:nth-child(1),
+.review_table .rdt_TableCell:nth-child(1) {
+  min-width: 50px;
+  max-width: 50px;
+}
+
+.eye_icon {
+  font-size: 20px !important;
+}
+
+.notification_status {
+  background-color: #fff;
+  border: 1px solid var(--custom-fourth-color);
+  padding: 5px;
+  width: 115px;
+  border-radius: 5px;
+  text-transform: capitalize;
+}
+
+.notification_status_sent {
+  color: rgba(6, 181, 66, 1);
+}
+
+.notification_status_schedule {
+  color: rgba(22, 118, 186, 1);
+}
+
+.date-input-container {
+  position: relative;
+  display: inline-block;
+}
+
+.date-input {
+  position: relative;
+  z-index: 1;
+  background-color: transparent;
+}
+
+.date-input-container.empty .date-input::before {
+  content: attr(data-placeholder);
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+  color: #aaa;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.placeholder {
+  position: absolute;
+  top: 50%;
+  left: 24px;
+  transform: translateY(-50%);
+  color: #4d5875;
+  pointer-events: none;
+  z-index: 0;
+  transition: all 0.2s;
+  width: 100px;
+  z-index: 10;
+  background: #fff;
+}
+
+.date-input-container:not(.empty) .placeholder {
+  display: none;
+}
+.career_editable{
+  display: flex;
+  align-items: center;
+}
+.career_editable p{
+  width: max-content;
+  white-space: nowrap;
+}
+.career_editable input{
+  border: none;
+  color: var(--primary-bg-color) !important;
+  font-size: 1rem!important;
+  width: fit-content;
+}

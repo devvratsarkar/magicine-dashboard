@@ -1,0 +1,198 @@
+.horizontal-hover.horizontal {
+    .transparent-mode .app-sidebar {
+      top: 72px;
+    }
+  }
+  .horizontal {
+    .slide-right {
+      display: none;
+    }
+  }
+  .horizontal {
+    .side-menu__item {
+      margin: 0px !important;
+    }
+  
+    .horizontal-main {
+      .sub-slide-menu {
+        left: 180px !important;
+      }
+    }
+  }
+  .rtl {
+    .horizontal-main {
+      .sub-slide-menu {
+        right: 180px !important;
+      }
+    }
+  }
+  .horizontal.rtl.color-menu {
+    .slide-rightRTL,
+    .slide-leftRTL {
+      svg {
+        fill: $white;
+      }
+    }
+  }
+  .horizontal.rtl.gradient-menu {
+    .slide-rightRTL,
+    .slide-leftRTL {
+      svg {
+        fill: $white;
+      }
+    }
+  }
+  .horizontal.rtl.dark-menu {
+    .slide-rightRTL,
+    .slide-leftRTL {
+      background: $dark-theme !important;
+      svg {
+        fill: $white;
+      }
+    }
+  }
+  .horizontal .scrollable-layout {
+    .side-menu {
+      margin-top: 51px;
+    }
+  }
+  .horizontal.scrollable-layout {
+    .page-header {
+      margin: 1.5rem 0rem 1.5rem;
+    }
+    .app-sidebar {
+      top: 0px;
+    }
+  }
+  .horizontal.rtl {
+    .slide-rightRTL {
+      left: 23px !important;
+    }
+    .slide-leftRTL {
+      right: 23px !important;
+    }
+  }
+  .horizontal.horizontal-hover {
+    .slide > .slide-menu > li:hover {
+      > .sub-slide-menu {
+        display: block !important;
+      }
+    }
+  }
+  .horizontal .app-sidebar .scrollbar-container {
+    overflow: inherit !important;
+  }
+  @media (min-width: 992px){
+    .horizontal .main-sidemenu .slide-leftRTL,
+    .horizontal .main-sidemenu .slide-rightRTL {
+      position: absolute;
+      top: 0px;
+      padding: 17px;
+      color: $white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1;
+      cursor: pointer;
+    }
+  }
+  @media (max-width: 360px) and (min-width: 992) {
+    .horizontal{
+        .header .header-right-icons .profile-1 .dropdown-menu {
+        top: 1.5rem !important;
+    }
+      }
+  }
+  @media only screen and (min-width: 320px) and (max-width:997px) {
+    .horizontal {
+        .page-header {
+          margin: 5.5rem 0rem 1.5rem;
+        }
+      }
+  }
+  @media (min-width: 992px) {
+    .rtl.horizontal {.message .dropdown-menu-arrow {
+      transform: translate(5px, -1px) !important;
+  }}
+}
+@media (min-width: 1024px) {
+    .horizontal {
+      .page-header {
+        margin: 1.5rem 0rem 1.5rem;
+      }
+    }
+}
+.horizontal {
+    .count-down.row span:first-child {
+      padding: 10px 13px;
+    }
+  }
+  @media (min-width: 992px) {
+    .rtl.horizontal .main-sidemenu .slide.is-expanded i.angle {
+      transform: rotate(90deg);
+    }
+}
+@media (max-width: 991px) {
+    .horizontal.app .main-sidemenu .slide-leftRTL,
+    .horizontal.app .main-sidemenu .slide-rightRTL {
+      display: none !important;
+    }
+  }
+  .rtl.horizontal {.message .dropdown-menu-arrow {
+    top: 0px !important;
+    -webkit-transform: translate(1px, 52px) !important;
+    transform: translate(1px, 44px) !important;
+}
+  }
+  .horizontal {
+    .header .message .dropdown-menu-arrow,
+     .header .notifications .dropdown-menu {
+       transform: translate(1px, 42px) !important;
+        top: 0px !important;
+     }
+     .profile-1 .dropdown-menu-end {
+       transform: translate3d(-1px, 0px, 0px) !important; 
+   }
+   }
+   .horizontal{
+    .app-sidebar {
+    padding-top: 0px !important;
+  }
+  }
+  .horizontal {
+    .app-header.header.navbar > .container,
+    .app-header.header.navbar > .container-fluid {
+      display: block !important;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .horizontal {
+        .navbar-light .navbar-toggler {
+          border: none;
+        }
+      }
+  }
+  .horizontalMenucontainer .responsive-navbar.navbar .navbar-collapse {
+    top: 71px;
+  }
+  @media (max-width: 360px) {
+    .horizontalMenucontainer .responsive-navbar.navbar .navbar-collapse {
+      top: 71px !important;
+    }
+  }
+  @media (min-width: 992px) and (max-width: 1798px){
+    .horizontal{.slide-right{
+      display: block !important;
+    }}
+    .rtl.horizontal{
+      .slide-right{
+      display: none !important;
+    }
+}
+  }
+
+  .horizontal.sidebar-mini {
+    .app-sidebar {
+      width: 100% !important;
+    }
+  }

@@ -1,0 +1,78 @@
+//fullcalendar
+.fc .fc-button-primary {
+    background-color: $primary-1 !important;
+  }
+  .fc .fc-button:focus,.fc .fc-button-primary {
+    box-shadow: none !important;
+  }
+  #external-events .fc-event {
+    border-radius: 4px;
+  }
+  .fc-direction-ltr .fc-toolbar > * > :not(:first-child) {
+      margin-left: 0.75em;
+      margin-top: 2px;
+  }
+  .fc-event-main{
+    i {
+      padding: 3px;
+    }
+  }
+  .fc-daygrid-event {
+     b{
+      padding: 3px;
+    }
+  }
+  .fc-prev-button, .fc-next-button{
+   span{ margin-bottom: 2px;}
+  }
+  .clndr {
+    .fc .fc-toolbar {
+      display: flex !important;
+      .fc-toolbar-title {
+        position: relative !important;
+        // margin-left: 14px;
+        // margin-bottom: 13px;
+      }
+    }
+  }
+  .fc .fc-toolbar.fc-header-toolbar {
+    margin-bottom: 0.5rem !important;
+  }
+  .fullclndr {
+    .fc .fc-toolbar {
+      display: flex;
+      .fc-toolbar-title {
+        position: relative !important;
+        padding-bottom: 19px;
+      }
+    }
+  }
+  @media (min-width: 1024px) {
+    .fc-timegrid-event .fc-event-main {
+      padding: 4px 4px;
+    }
+    .countdown {
+      .seconds,
+      .minutes,
+      .days, .hours {
+        margin: 0.7rem !important;
+      }
+    }
+  }
+  @media (max-width: 575.9px) {
+    .fullclndr {
+      .fc .fc-toolbar {
+        display: inline;
+        .fc-toolbar-title {
+          position: relative !important;
+          padding-bottom: 19px;
+          padding-left: 10px;
+        }
+      }
+    }
+}
+@media (max-width: 486.9px) {
+    .fc-more-link {
+      display: none;
+    }
+}

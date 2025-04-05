@@ -1,0 +1,731 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "country": "India",
+      "total_state": 39,
+      "shipping_available_state": 38,
+      "states": [
+        {
+          "id": 1237,
+          "country_id": "82",
+          "state_name": "Andaman and Nicobar Islands",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1238,
+          "country_id": "82",
+          "state_name": "Andhra Pradesh",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1239,
+          "country_id": "82",
+          "state_name": "Arunachal Pradesh",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1240,
+          "country_id": "82",
+          "state_name": "Assam",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1241,
+          "country_id": "82",
+          "state_name": "Bihar",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1242,
+          "country_id": "82",
+          "state_name": "Chandigarh",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1243,
+          "country_id": "82",
+          "state_name": "Chhattisgarh",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1244,
+          "country_id": "82",
+          "state_name": "Dadra and Nagar Haveli",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1245,
+          "country_id": "82",
+          "state_name": "Daman and Diu",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1246,
+          "country_id": "82",
+          "state_name": "Delhi",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1247,
+          "country_id": "82",
+          "state_name": "Goa",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1248,
+          "country_id": "82",
+          "state_name": "Gujarat",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1249,
+          "country_id": "82",
+          "state_name": "Haryana",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1250,
+          "country_id": "82",
+          "state_name": "Himachal Pradesh",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1251,
+          "country_id": "82",
+          "state_name": "Jammu and Kashmir",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1252,
+          "country_id": "82",
+          "state_name": "Jharkhand",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1253,
+          "country_id": "82",
+          "state_name": "Karnataka",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1254,
+          "country_id": "82",
+          "state_name": "Kerala",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1255,
+          "country_id": "82",
+          "state_name": "Lakshadweep",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1256,
+          "country_id": "82",
+          "state_name": "Madhya Pradesh",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1257,
+          "country_id": "82",
+          "state_name": "Maharashtra",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1258,
+          "country_id": "82",
+          "state_name": "Manipur",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1259,
+          "country_id": "82",
+          "state_name": "Meghalaya",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1260,
+          "country_id": "82",
+          "state_name": "Mizoram",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1261,
+          "country_id": "82",
+          "state_name": "Nagaland",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1262,
+          "country_id": "82",
+          "state_name": "Orissa",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1263,
+          "country_id": "82",
+          "state_name": "Pondicherry",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1264,
+          "country_id": "82",
+          "state_name": "Punjab",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1265,
+          "country_id": "82",
+          "state_name": "Rajasthan",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1266,
+          "country_id": "82",
+          "state_name": "Sikkim",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1267,
+          "country_id": "82",
+          "state_name": "Tamil Nadu",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1268,
+          "country_id": "82",
+          "state_name": "Tripura",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1269,
+          "country_id": "82",
+          "state_name": "Uttaranchal",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1270,
+          "country_id": "82",
+          "state_name": "Uttar Pradesh",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 1271,
+          "country_id": "82",
+          "state_name": "West Bengal",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        }
+      ],
+      "shipping_rate": [
+        {
+          "name": "New tax",
+          "shipping_carrier": "DHFL",
+          "DeliveryTakes": "5 days",
+          "minimunOrderWeight": "200g",
+          "maximumOrderWeight": "300g",
+          "rate": "30"
+        },
+        {
+          "name": "New tax1",
+          "shipping_carrier": "DHFL",
+          "DeliveryTakes": "5 days",
+          "minimunOrderWeight": "400g",
+          "maximumOrderWeight": "490g",
+          "rate": "40"
+        },
+        {
+          "name": "New tax2",
+          "shipping_carrier": "DHFL",
+          "DeliveryTakes": "5 days",
+          "minimunOrderWeight": "310g",
+          "maximumOrderWeight": "390g",
+          "rate": "30"
+        },
+        {
+          "name": "New tax3",
+          "shipping_carrier": "DHFL",
+          "DeliveryTakes": "5 days",
+          "minimunOrderWeight": "100g",
+          "maximumOrderWeight": "190g",
+          "rate": "20"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "country": "Australia",
+      "total_state": 6,
+      "shipping_available_state": 3,
+      "states": [
+        {
+          "id": 3498,
+          "country_id": "10",
+          "state_name": "New South Wales",
+          "deleted_at": null,
+          "created_at": "2024-03-08T00:03:03.000000Z",
+          "updated_at": "2024-03-08T00:03:03.000000Z"
+        },
+        {
+          "id": 3499,
+          "country_id": "10",
+          "state_name": "Victoria",
+          "deleted_at": null,
+          "created_at": "2024-03-08T00:03:03.000000Z",
+          "updated_at": "2024-03-08T00:03:03.000000Z"
+        },
+        {
+          "id": 3500,
+          "country_id": "10",
+          "state_name": "Queensland",
+          "deleted_at": null,
+          "created_at": "2024-03-08T00:03:03.000000Z",
+          "updated_at": "2024-03-08T00:03:03.000000Z"
+        },
+        {
+          "id": 3501,
+          "country_id": "10",
+          "state_name": "South Australia",
+          "deleted_at": null,
+          "created_at": "2024-03-08T00:03:03.000000Z",
+          "updated_at": "2024-03-08T00:03:03.000000Z"
+        },
+        {
+          "id": 3502,
+          "country_id": "10",
+          "state_name": "Western Australia",
+          "deleted_at": null,
+          "created_at": "2024-03-08T00:03:03.000000Z",
+          "updated_at": "2024-03-08T00:03:03.000000Z"
+        },
+        {
+          "id": 3503,
+          "country_id": "10",
+          "state_name": "Tasmania",
+          "deleted_at": null,
+          "created_at": "2024-03-08T00:03:03.000000Z",
+          "updated_at": "2024-03-08T00:03:03.000000Z"
+        }
+      ],
+      "shipping_rate": [
+        {
+          "name": "New tax",
+          "shipping_carrier": "DHFL",
+          "DeliveryTakes": "5 days",
+          "minimunOrderWeight": "200g",
+          "maximumOrderWeight": "300g",
+          "rate": "30"
+        },
+        {
+          "name": "New tax1",
+          "shipping_carrier": "DHFL",
+          "DeliveryTakes": "5 days",
+          "minimunOrderWeight": "400g",
+          "maximumOrderWeight": "490g",
+          "rate": "40"
+        },
+        {
+          "name": "New tax2",
+          "shipping_carrier": "DHFL",
+          "DeliveryTakes": "5 days",
+          "minimunOrderWeight": "310g",
+          "maximumOrderWeight": "390g",
+          "rate": "30"
+        },
+        {
+          "name": "New tax3",
+          "shipping_carrier": "DHFL",
+          "DeliveryTakes": "5 days",
+          "minimunOrderWeight": "100g",
+          "maximumOrderWeight": "190g",
+          "rate": "20"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "country": "Afghanistan",
+      "total_state": 34,
+      "shipping_available_state": 4,
+      "states": [
+        {
+          "id": 1,
+          "country_id": "1",
+          "state_name": "Badakhshan",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 2,
+          "country_id": "1",
+          "state_name": "Badghis",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 3,
+          "country_id": "1",
+          "state_name": "Baghlan",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 4,
+          "country_id": "1",
+          "state_name": "Balkh",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 5,
+          "country_id": "1",
+          "state_name": "Bamian",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 6,
+          "country_id": "1",
+          "state_name": "Daykondi",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 7,
+          "country_id": "1",
+          "state_name": "Farah",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 8,
+          "country_id": "1",
+          "state_name": "Faryab",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 9,
+          "country_id": "1",
+          "state_name": "Ghazni",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 10,
+          "country_id": "1",
+          "state_name": "Ghowr",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 11,
+          "country_id": "1",
+          "state_name": "Helmand",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 12,
+          "country_id": "1",
+          "state_name": "Herat",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 13,
+          "country_id": "1",
+          "state_name": "Jowzjan",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 14,
+          "country_id": "1",
+          "state_name": "Kabul",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 15,
+          "country_id": "1",
+          "state_name": "Kandahar",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 16,
+          "country_id": "1",
+          "state_name": "Kapisa",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 17,
+          "country_id": "1",
+          "state_name": "Khost",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 18,
+          "country_id": "1",
+          "state_name": "Konar",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 19,
+          "country_id": "1",
+          "state_name": "Kondoz",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 20,
+          "country_id": "1",
+          "state_name": "Laghman",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 21,
+          "country_id": "1",
+          "state_name": "Lowgar",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 22,
+          "country_id": "1",
+          "state_name": "Nangarhar",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 23,
+          "country_id": "1",
+          "state_name": "Nimruz",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 24,
+          "country_id": "1",
+          "state_name": "Nurestan",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 25,
+          "country_id": "1",
+          "state_name": "Oruzgan",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 26,
+          "country_id": "1",
+          "state_name": "Paktia",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 27,
+          "country_id": "1",
+          "state_name": "Paktika",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 28,
+          "country_id": "1",
+          "state_name": "Panjshir",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 29,
+          "country_id": "1",
+          "state_name": "Parvan",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 30,
+          "country_id": "1",
+          "state_name": "Samangan",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 31,
+          "country_id": "1",
+          "state_name": "Sar-e Pol",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 32,
+          "country_id": "1",
+          "state_name": "Takhar",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 33,
+          "country_id": "1",
+          "state_name": "Vardak",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        },
+        {
+          "id": 34,
+          "country_id": "1",
+          "state_name": "Zabol",
+          "deleted_at": null,
+          "created_at": "2023-06-22T16:16:54.000000Z",
+          "updated_at": "2023-06-22T16:16:54.000000Z"
+        }
+      ],
+      "shipping_rate": [
+        {
+          "name": "New tax",
+          "shipping_carrier": "DHFL",
+          "DeliveryTakes": "5 days",
+          "minimunOrderWeight": "20g",
+          "maximumOrderWeight": "50g",
+          "rate": "30"
+        },
+        {
+          "name": "New tax1",
+          "shipping_carrier": "DHFL",
+          "DeliveryTakes": "5 days",
+          "minimunOrderWeight": "10g",
+          "maximumOrderWeight": "19g",
+          "rate": "40"
+        },
+        {
+          "name": "New tax2",
+          "shipping_carrier": "DHFL",
+          "DeliveryTakes": "5 days",
+          "minimunOrderWeight": "51g",
+          "maximumOrderWeight": "60g",
+          "rate": "30"
+        },
+        {
+          "name": "New tax3",
+          "shipping_carrier": "DHFL",
+          "DeliveryTakes": "5 days",
+          "minimunOrderWeight": "61g",
+          "maximumOrderWeight": "100g",
+          "rate": "20"
+        }
+      ]
+    }
+  ]
+}

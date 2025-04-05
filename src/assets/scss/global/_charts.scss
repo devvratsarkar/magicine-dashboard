@@ -1,0 +1,118 @@
+.apexcharts-element-hidden {
+    display: contents;
+    svg {
+      fill: #6e8192 !important;
+      width: 20px;
+    }
+  }
+  .apexcharts-element-hidden {
+    svg {
+      fill: $primary-1 !important;
+    }
+  }
+  @media (min-width: 768px) {
+    //dashbord
+    .apexcharts-element-hidden {
+      display: contents;
+      svg {
+        fill: #6e8192 !important;
+      }
+    }
+}
+@media (max-width: 486.9px) {
+    .apexcharts-align-center {
+      display: block !important;
+    }
+}
+@media (max-width: 480px) {
+    .apexchart{
+      .apexcharts-theme-light{
+    svg{
+      .apexcharts-graphical{
+        g{
+          transform: translate(-16px, 10px) !important
+        }
+  
+      }
+    }
+  }}
+  .rtl .apexchart{
+    .apexcharts-theme-light{
+  svg{
+    .apexcharts-graphical{
+      g{
+        transform: translate(16px, 10px) !important
+      }
+
+    }
+  }
+}}
+}
+.chartsh {
+    height: 300px !important;
+  }
+  @media (max-width: 320px) {
+    .widgets-cards{
+      .circlecharts{
+        padding: 14px !important;
+      }
+    }
+  
+  }
+  @media(min-width: 1280px) and (max-width: 1661px){
+    .circlecharts{
+      padding: 15px;
+      .chart-circle {
+        margin-left: 0.5rem !important;
+      }
+      .chart-circle-value{
+        bottom: 18px;
+      }
+    }
+  }
+  .chart-wrapper .echarts-for-react {
+    height: 220px !important;
+  }
+  //widgets
+.circlechart{
+    width: 100%;
+  }
+  .chart-circle {
+    height: 4rem;
+    width: 4rem;
+    position: relative;
+  }
+  .mx-auto {
+    .chart-circle {
+      height: 6.5rem;
+      width: 7.5rem;
+    }
+  }
+  .rtl.layout-boxed {
+    .chart-circle-sm {
+      margin-right: 0.5 rem !important;
+      svg {
+        width: 80px;
+      }
+    }
+  }
+  .nv-chart {
+    height: 400px;
+  }
+  #chartZoom {
+    float: left;
+  }
+  .chartcircle {
+    top: 33px;
+    font-size: 20px;
+  }
+  @media (min-width: 1024px) {
+    .layout-boxed .chart-circle-value {
+        bottom: 20px !important;
+        top: 0px !important;
+      }
+  }
+  #chart div:first-child {
+    margin-right: auto;
+    margin-left: auto;
+  }

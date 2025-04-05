@@ -1,0 +1,257 @@
+// .header .notifications .dropdown-menu {
+//     right: 0px !important;
+//     left: auto !important;
+//   }
+//   .header .message .dropdown-menu {
+//     right: 0px !important;
+//     left: auto !important;
+//   }
+//   .header .profile-1 .dropdown-menu {
+//     right: 0px !important;
+//     left: auto !important;
+//   }
+//   //header
+// .header-search {
+//     height: 40px !important ;
+//     .input-group {
+//       background-color: $white;
+//     }
+//   }
+//   .header-search.show {
+//     border: none !important;
+//   }
+//   .header-2 .nav-link .badge {
+//     top: 3px !important;
+//   }
+//   .header .message,
+//   .profile-1,
+//   .notifications {
+//     .dropdown-menu {
+//       right: auto !important;
+//       left: 0px !important;
+//     }
+//   }
+//   @media (min-width: 320px) and (max-width: 360px) {
+//     .header .dropdown-menu {
+//       margin-top: 9px !important;
+//     }
+//   }
+//   @media (max-width: 360px) and (min-width: 992) {
+//     .header .dropdown-menu {
+//       margin-top: 17px !important;
+//     }
+//   }
+//   @media only screen and (min-width: 320px) {
+//     //header
+//     .header-2 .animated-arrow {
+//       margin: 0px 0 0 -11px;
+//     }
+// }
+// @media (max-width: 991.98px) {
+//     //header
+//     .header-1 .nav-link .badge {
+//       left: 18px !important;
+//     }
+//   }
+//   @media (min-width: 992px) {
+  
+//       .header .notifications .dropdown-menu {
+//         transform: translate(1px, 54px) !important;
+//       }
+//     }
+//     @media (max-width: 479.99px) {
+//         .header.header-1 .nav-link {
+//           padding: 0.6rem 0rem 0.6rem 0.6rem !important;
+//         }
+//         .rtl .header.header-1 .nav-link {
+//           padding: 0.6rem 0.6rem 0.6rem 0rem !important;
+//         }
+//     }
+    
+// @media only screen and (max-width: 991px) {
+//     .header-2 .animated-arrow {
+//       padding: 16px 35px 16px 0px;
+//     }
+//     .header-1 .animated-arrow {
+//       margin: 0 0 0 1px;
+//     }
+//     .rtl .header-2 .animated-arrow {
+//       padding: 0 0px 3px 33px;
+//       margin: 0px 0 0 -11px;
+//     }
+//   }
+//   @media (max-width: 480px) {
+//     .header #navbarSupportedContent-4 .nav-link {
+//       padding: 0 !important;
+//     }
+// }
+// .header.navbar > .container,
+// .navbar > .container-fluid {
+//   display: block;
+// }
+// @media screen and (max-width: 992px) {
+//     .app-header.header.navbar > .container,
+//     .app-header.header.navbar > .container-fluid {
+//       display: block;
+//     }
+//     .app-header.header {
+//       .navbar-toggler {
+//         border: none;
+//       }
+//     }
+//   }
+//   .dark-header .header .main-header-center .form-control {
+//     background: transparent !important;
+//   }
+//   @media (min-width: 992px) {
+//     .app-header.header .dropdown-menu {
+//       top: 0.5rem !important;
+//     }
+// }
+// @media (min-width: 320px) and (max-width: 360px) {
+//     .header .dropdown-menu {
+//       margin-top: 9px !important;
+//     }
+//   }
+//   @media (max-width: 360px) and (min-width: 992) {
+//     .header .dropdown-menu {
+//       margin-top: 17px !important;
+//     }
+//   }
+.header .notifications .dropdown-menu {
+  right: 0px !important;
+  left: auto !important;
+}
+.header .message .dropdown-menu {
+  right: 0px !important;
+  left: auto !important;
+}
+.header .profile-1 .dropdown-menu {
+  right: 0px !important;
+  left: auto !important;
+}
+//header
+.header-search {
+  height: 40px !important ;
+  .input-group {
+    background-color: $white;
+  }
+}
+.header-search.show {
+  border: none !important;
+}
+.header-2 .nav-link .badge {
+  top: 10px !important;
+}
+.header .message,
+.profile-1,
+.notifications {
+  .dropdown-menu {
+    right: auto !important;
+    left: 0px !important;
+  }
+}
+.scrollable-layout .app-header,
+.scrollable-layout .hor-header {
+  position: relative !important;
+  backdrop-filter: blur(18px);
+  z-index: 8;
+}
+@media (min-width: 992px) {
+  .app-header.header .dropdown-menu {
+    top: 0.5rem !important;
+  }
+}
+@media (min-width: 320px) and (max-width: 360px) {
+  .header .dropdown-menu {
+    margin-top: 9px !important;
+  }
+}
+@media (max-width: 360px) and (min-width: 992) {
+  .header .dropdown-menu {
+    margin-top: 17px !important;
+  }
+}
+@media only screen and (min-width: 320px) {
+  //header
+  .header-2 .animated-arrow {
+    margin: 0px 0 0 -11px;
+  }
+}
+@media (max-width: 991.98px) {
+  .collapse:not(.show) {
+    display: none !important;
+  }
+  aside.horizontal-main {
+    > div {
+      overflow: inherit !important;
+    }
+  }
+  //header
+  .header-1 .nav-link .badge {
+    left: 18px !important;
+  }
+}
+@media (min-width: 992px) {
+
+    .header .notifications .dropdown-menu {
+      transform: translate(1px, 54px) !important;
+    }
+  }
+  @media (max-width: 479.99px) {
+    .header.header-1 .nav-link {
+      padding: 0.6rem 0rem 0.6rem 0.6rem !important;
+    }
+    .rtl .header.header-1 .nav-link {
+      padding: 0.6rem 0.6rem 0.6rem 0rem !important;
+    }
+  }
+  @media only screen and (max-width: 991px) {
+    .header-2 .animated-arrow {
+      padding: 16px 35px 16px 0px;
+    }
+    .header-1 .animated-arrow {
+      margin: 0 0 0 1px;
+    }
+    .rtl .header-2 .animated-arrow {
+      padding: 0 0px 3px 33px;
+      margin: 0px 0 0 -11px;
+    }
+  }
+  @media (max-width: 480px) {
+    .header #navbarSupportedContent-4 .nav-link {
+      padding: 0 !important;
+    }
+  }
+  .header.navbar > .container,
+.navbar > .container-fluid {
+  display: block;
+}
+@media screen and (max-width: 992px) {
+  .app-header.header.navbar > .container,
+  .app-header.header.navbar > .container-fluid {
+    display: block;
+  }
+  .app-header.header {
+    .navbar-toggler {
+      border: none;
+    }
+  }
+}
+@media (min-width: 768px) {
+  .navbar-expand-md .header-right-icons .navbar-toggler {
+    display: block;
+  }
+}
+.dark-mode.light-header .main-header-center .form-control {
+  border: 1px solid $border !important;
+  color: $default-color !important;
+}
+@media (max-width: 991px) {
+  .sidenav-toggled .app-header.header {
+    padding-left: 1rem !important;
+  }
+}
+.card-header {
+  flex-wrap: wrap;
+}
